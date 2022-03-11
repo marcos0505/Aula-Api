@@ -1,0 +1,15 @@
+[
+
+    {
+        "nome": "André",
+        "Id": 123,
+        "setor": "Financeiro",
+        "funcionario": true
+    },
+    {
+        "nome": "Rebeka",
+        "Id":111,
+        "setor":"contabil",
+        "funcionario":false
+    }
+]
