@@ -1,0 +1,23 @@
+{
+  "name": "aula-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcos0505/Aula-Api.git"
+  },
+  "author": "Marcos Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcos0505/Aula-Api/issues"
+  },
+  "homepage": "https://github.com/marcos0505/Aula-Api#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
