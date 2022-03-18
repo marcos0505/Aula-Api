@@ -1,0 +1,59 @@
+[
+
+    {
+        "nome": "André",
+        "Id": 123,
+        "setor": "Financeiro",
+        "funcionario": true
+    },
+    {
+        "nome": "Rebeka",
+        "Id":111,
+        "setor":"contabil",
+        "funcionario":false
+    },
+    {
+        "nome": "Jose",
+        "Id":236,
+        "setor":"Almoxarifado",
+        "funcionario":true 
+    },
+    {
+        "nome": "Patrik",
+        "Id":230,
+        "setor":"Almoxarifado",
+        "funcionario":true 
+    },
+    {
+        "nome": "Maria",
+        "Id":239,
+        "setor":"Compras",
+        "funcionario":false  
+    },
+    {
+        "nome": "Sandro",
+        "Id":209,
+        "setor":"Ti",
+        "funcionario":true   
+    },
+    {
+        "nome": "Patricia",
+        "Id":119,
+        "setor":"DP",
+        "funcionario":true  
+    },
+    {
+        "nome": "Izabel",
+        "Id":19,
+        "setor":"RH",
+        "funcionario":false  
+    },
+    {
+        "nome": "Rodolfo",
+        "Id":100,
+        "setor":"Consultor",
+        "funcionario":true 
+    }
+
+    
+]
